@@ -1,0 +1,15 @@
+City,Time,Quality,Error
+Atlanta,63.16,2003763,0.0
+berlin52,88.49,7542,0.0
+Boston,420.46,893536,0.0
+Champaign,246.34,52643,0.0
+Cincinnati,0.08,277952,0.0
+Denver,99.56,100893,0.0046
+NYC,33.56,1555060,0.0
+Philadelphia,11.77,1395981,0.0
+Roanoke,597.96,694997,0.060329
+SanFrancisco,570.01,812780,0.003189
+Toronto,573.54,1196495,0.017297
+UKansasState,0.01,62962,0.0
+ulysses16,18.93,6859,0.0
+UMissouri,305.11,136297,0.027037
